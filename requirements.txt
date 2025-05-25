@@ -1,0 +1,6 @@
+openai>=1.13.3
+requests>=2.32
+beautifulsoup4>=4.12
+lxml>=5.2
+tqdm>=4.66
+python-slugify>=8.0
