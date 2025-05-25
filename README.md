@@ -1,5 +1,6 @@
 # YOINK!
 Steal SEO from your competitors and level the content marketing playing field. Generate fresh WordPress blog posts from any public website’s sitemap.xml using OpenAI’s GPT models.
+![Stay Humble](before.gif)
 
 ✨ Key Features
 
@@ -76,6 +77,7 @@ WP Admin → Tools → Import → WordPress → Upload File & Import
 Inside generate_post() tweak the prompt, temperature, max_tokens, or switch the OpenAI model. You can also add topics, tone guidelines, or SEO instructions.
 
 ⚠️ Caveats & Ethics
+![Try not to get caught](after.gif)
 
 Respect robots.txt and site T&C before scraping.
 
